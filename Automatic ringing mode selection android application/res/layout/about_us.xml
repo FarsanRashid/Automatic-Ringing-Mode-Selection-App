@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+    android:orientation="vertical">
+	<ImageView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_gravity="center"
+		android:id="@+id/white" />
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:id="@+id/textView1"
+		android:layout_marginLeft="2px" android:layout_marginRight="2px"
+		android:lineSpacingExtra="1px" android:textColor="#B8860B" android:text="Hye!! We are Farsan &amp; Tanzim, undergrad CSE student from Khulna University of Eng. &amp; Technology.The app you are using right now is actually our semister 2-1 Java project. This app was developed under total observation of our respected teacher Bishnu Sarker Bandhan sir ... Have fun :)."/>
+</LinearLayout>
